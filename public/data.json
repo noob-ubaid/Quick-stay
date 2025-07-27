@@ -1,0 +1,600 @@
+[
+  {
+    "id": 1,
+    "hotelName": "Royal Grand Palace",
+    "bedType": "Single",
+    "location": "Chittagong",
+    "reviews": 4.5,
+    "image": "https://plus.unsplash.com/premium_photo-1661964402307-02267d1423f5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 284,
+    "luxuryTitle": "Elite Getaway",
+    "freeServices": ["WiFi", "Spa Access", "Mini Bar"],
+    "mainFeatures": [
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      }
+    ],
+    "description": "Experience unmatched hospitality, modern amenities, and comfort in the heart of the city or by the tranquil beaches. Our hotel offers personalized services to ensure your stay is unforgettable, whether you're traveling for business or leisure. Relax in elegant rooms designed with your comfort in mind."
+  },
+  {
+    "id": 2,
+    "hotelName": "Oceanview Resort",
+    "bedType": "Single",
+    "location": "Dhaka",
+    "reviews": 3.8,
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 105,
+    "luxuryTitle": "Premium Escape",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      }
+    ],
+    "description": "Nestled along stunning coastlines, Oceanview Resort combines luxury with breathtaking natural beauty. Enjoy spacious rooms with panoramic ocean views, first-class dining, and wellness facilities. Perfect for romantic getaways or family vacations seeking peace and elegance."
+  },
+  {
+    "id": 3,
+    "hotelName": "Mountain Escape Inn",
+    "bedType": "Double",
+    "location": "Sylhet",
+    "reviews": 4.1,
+    "image": "https://images.unsplash.com/photo-1618773928121-c32242e63f39?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 135,
+    "luxuryTitle": "Ultimate Comfort",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      }
+    ],
+    "description": "Surrounded by serene mountains, this inn offers a peaceful retreat with cozy yet luxurious accommodations. Take advantage of outdoor activities nearby or unwind with spa services after a day of exploring. Experience personalized attention and charming local hospitality."
+  },
+  {
+    "id": 4,
+    "hotelName": "Luxe Urban Stay",
+    "bedType": "Double",
+    "location": "Rajshahi",
+    "reviews": 4.9,
+    "image": "https://images.unsplash.com/photo-1568495248636-6432b97bd949?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 215,
+    "luxuryTitle": "Elegant Experience",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      }
+    ],
+    "description": "Located in the vibrant heart of the city, Luxe Urban Stay offers modern luxury with easy access to cultural landmarks and entertainment. Rooms feature sleek design and advanced amenities. Perfect for travelers who want to combine city excitement with comfort and style."
+  },
+  {
+    "id": 5,
+    "hotelName": "Golden Horizon Hotel",
+    "bedType": "Single",
+    "location": "Cox's Bazar",
+    "reviews": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1661879252375-7c1db1932572?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 180,
+    "luxuryTitle": "Elite Getaway",
+    "freeServices": ["WiFi", "Spa Access", "Mini Bar"],
+    "mainFeatures": [
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      }
+    ],
+    "description": "Step into a world of sophistication and tranquility at Golden Horizon Hotel. Located just steps from the beach, our hotel boasts spacious rooms with breathtaking views, exquisite dining options, and impeccable service tailored to your desires."
+  },
+  {
+    "id": 6,
+    "hotelName": "Sunset Bay Lodge",
+    "bedType": "Double",
+    "location": "Khulna",
+    "reviews": 4.0,
+    "image": "https://plus.unsplash.com/premium_photo-1675616563084-63d1f129623d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 150,
+    "luxuryTitle": "Premium Escape",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      }
+    ],
+    "description": "Perfectly situated to capture stunning sunsets, Sunset Bay Lodge offers a warm, inviting atmosphere with luxurious rooms and exceptional amenities. Enjoy outdoor activities, personalized service, and memorable dining experiences."
+  },
+  {
+    "id": 7,
+    "hotelName": "Emerald Oasis",
+    "bedType": "Single",
+    "location": "Barishal",
+    "reviews": 4.7,
+    "image": "https://images.unsplash.com/photo-1629140727571-9b5c6f6267b4?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aG90ZWwlMjByb29tfGVufDB8fDB8fHww",
+    "pricePerNight": 175,
+    "luxuryTitle": "Ultimate Comfort",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      }
+    ],
+    "description": "Emerald Oasis blends modern design with natural beauty. Located near lush greenery, the hotel offers tranquil rooms, state-of-the-art facilities, and outstanding customer service. A perfect retreat for those seeking peace without sacrificing luxury."
+  },
+  {
+    "id": 8,
+    "hotelName": "Desert Bloom Suites",
+    "bedType": "Double",
+    "location": "Rangpur",
+    "reviews": 3.9,
+    "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 95,
+    "luxuryTitle": "Elegant Experience",
+    "freeServices": ["WiFi", "Spa Access", "Mini Bar"],
+    "mainFeatures": [
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      }
+    ],
+    "description": "Desert Bloom Suites offers cozy, stylish rooms with modern comforts and stunning desert views. Enjoy gourmet meals, a relaxing spa, and friendly staff dedicated to making your stay memorable."
+  },
+  {
+    "id": 9,
+    "hotelName": "Skyline Heights",
+    "bedType": "Single",
+    "location": "Dhaka",
+    "reviews": 4.4,
+    "image": "https://images.unsplash.com/photo-1631049552057-403cdb8f0658?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 220,
+    "luxuryTitle": "Premium Escape",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      }
+    ],
+    "description": "Experience breathtaking views and unmatched comfort at Skyline Heights. The hotel offers stylish accommodations, wellness facilities, and gourmet dining options for the discerning traveler."
+  },
+  {
+    "id": 10,
+    "hotelName": "Crystal Waters Resort",
+    "bedType": "Double",
+    "location": "Cox's Bazar",
+    "reviews": 4.8,
+    "image": "https://plus.unsplash.com/premium_photo-1661875135365-16aab794632f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 280,
+    "luxuryTitle": "Elite Getaway",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      }
+    ],
+    "description": "Crystal Waters Resort provides a serene escape with pristine beaches and luxurious rooms. Enjoy world-class amenities, attentive staff, and beautiful natural surroundings perfect for a relaxing holiday."
+  },
+  {
+    "id": 11,
+    "hotelName": "The Blue Orchid",
+    "bedType": "Single",
+    "location": "Sylhet",
+    "reviews": 4.3,
+    "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 130,
+    "luxuryTitle": "Ultimate Comfort",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      }
+    ],
+    "description": "The Blue Orchid offers an elegant stay surrounded by natural beauty. Our hotel blends comfort and style with modern amenities and warm hospitality to make your visit truly special."
+  },
+  {
+    "id": 12,
+    "hotelName": "Crescent Moon Hotel",
+    "bedType": "Double",
+    "location": "Rajshahi",
+    "reviews": 3.7,
+    "image": "https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 110,
+    "luxuryTitle": "Elegant Experience",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      }
+    ],
+    "description": "Crescent Moon Hotel offers charming accommodations with contemporary design and excellent service. Located near key attractions, it is perfect for both business and leisure travelers seeking comfort and convenience."
+  },
+  {
+    "id": 13,
+    "hotelName": "Highland Retreat",
+    "bedType": "Single",
+    "location": "Barishal",
+    "reviews": 4.6,
+    "image": "https://images.unsplash.com/photo-1578898886225-c7c894047899?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 195,
+    "luxuryTitle": "Premium Escape",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      }
+    ],
+    "description": "Highland Retreat is the perfect getaway for nature lovers seeking luxury. Enjoy panoramic views, outdoor adventures, and modern comforts all wrapped in an elegant mountain setting."
+  },
+  {
+    "id": 14,
+    "hotelName": "Palm Paradise Inn",
+    "bedType": "Double",
+    "location": "Khulna",
+    "reviews": 4.1,
+    "image": "https://images.unsplash.com/flagged/photo-1556438758-8d49568ce18e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 140,
+    "luxuryTitle": "Ultimate Comfort",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      }
+    ],
+    "description": "Palm Paradise Inn invites you to relax in tropical surroundings with impeccable service and luxurious rooms. Experience true comfort and enjoy our exclusive amenities designed to enhance your stay."
+  },
+  {
+    "id": 15,
+    "hotelName": "Velvet Valley Resort",
+    "bedType": "Single",
+    "location": "Rangpur",
+    "reviews": 3.9,
+    "image": "https://plus.unsplash.com/premium_photo-1671269705768-cad27668134c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDF8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 100,
+    "luxuryTitle": "Elegant Experience",
+    "freeServices": ["WiFi", "Spa Access", "Mini Bar"],
+    "mainFeatures": [
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      }
+    ],
+    "description": "Velvet Valley Resort offers cozy elegance and a tranquil environment. Perfect for guests looking to unwind and enjoy quality service alongside modern amenities in a scenic setting."
+  },
+  {
+    "id": 16,
+    "hotelName": "Tranquil Shores",
+    "bedType": "Double",
+    "location": "Dhaka",
+    "reviews": 4.4,
+    "image": "https://images.unsplash.com/photo-1562438668-bcf0ca6578f0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 170,
+    "luxuryTitle": "Premium Escape",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      }
+    ],
+    "description": "Tranquil Shores offers a peaceful retreat with luxurious rooms and exceptional facilities. Enjoy breathtaking water views, rejuvenating spa services, and attentive staff dedicated to making your stay remarkable."
+  },
+  {
+    "id": 17,
+    "hotelName": "Arctic Lights Hotel",
+    "bedType": "Single",
+    "location": "Chittagong",
+    "reviews": 4.7,
+    "image": "https://images.unsplash.com/photo-1587985064135-0366536eab42?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 225,
+    "luxuryTitle": "Elite Getaway",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      }
+    ],
+    "description": "Arctic Lights Hotel provides an elegant escape with modern amenities and breathtaking surroundings. Perfect for travelers seeking both adventure and relaxation in a sophisticated environment."
+  },
+  {
+    "id": 18,
+    "hotelName": "Forest Whisper Lodge",
+    "bedType": "Double",
+    "location": "Sylhet",
+    "reviews": 3.8,
+    "image": "https://images.unsplash.com/photo-1595576508898-0ad5c879a061?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTB8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 125,
+    "luxuryTitle": "Ultimate Comfort",
+    "freeServices": ["WiFi", "Spa Access", "Mini Bar"],
+    "mainFeatures": [
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      }
+    ],
+    "description": "Forest Whisper Lodge offers a charming blend of rustic beauty and modern luxury. Surrounded by nature, it provides an ideal setting for relaxation, adventure, and exceptional service. The lush forest environment invites guests to unwind and reconnect with nature while enjoying the comforts of a five-star resort."
+  },
+  {
+    "id": 19,
+    "hotelName": "Sunbeam Manor",
+    "bedType": "Single",
+    "location": "Rajshahi",
+    "reviews": 4.2,
+    "image": "https://plus.unsplash.com/premium_photo-1678297270523-8775c817d0b3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 160,
+    "luxuryTitle": "Elegant Experience",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      }
+    ],
+    "description": "Sunbeam Manor offers a refined atmosphere with beautiful interiors and exceptional service. Perfect for both business and leisure travelers, the hotel provides an elegant setting to relax after a busy day. Guests can enjoy panoramic views from their rooms and indulge in wellness and dining experiences designed to refresh the mind and body."
+  },
+  {
+    "id": 20,
+    "hotelName": "Azure Coast Hotel",
+    "bedType": "Double",
+    "location": "Cox's Bazar",
+    "reviews": 4.6,
+    "image": "https://images.unsplash.com/photo-1590490359854-dfba19688d70?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTl8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 210,
+    "luxuryTitle": "Elite Getaway",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      }
+    ],
+    "description": "Azure Coast Hotel is a luxurious oceanfront property offering stunning sea views and world-class amenities. Guests can enjoy spacious rooms, personalized services, and a variety of leisure options. Whether you want to relax on the beach or indulge in fine dining, Azure Coast has everything you need for a memorable stay."
+  },
+  {
+    "id": 21,
+    "hotelName": "Harbor View Suites",
+    "bedType": "Single",
+    "location": "Chittagong",
+    "reviews": 4.3,
+    "image": "https://plus.unsplash.com/premium_photo-1661962495669-d72424626bdc?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjF8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 190,
+    "luxuryTitle": "Ultimate Comfort",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      },
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      }
+    ],
+    "description": "Harbor View Suites offers elegant accommodations overlooking the bustling harbor. With a blend of modern design and cozy comforts, this hotel caters to travelers who appreciate convenience and luxury. Guests can enjoy the rooftop pool, exquisite dining options, and attentive service throughout their stay."
+  },
+  {
+    "id": 22,
+    "hotelName": "Meadow Breeze Inn",
+    "bedType": "Double",
+    "location": "Sylhet",
+    "reviews": 4.0,
+    "image": "https://plus.unsplash.com/premium_photo-1661962688308-2b00b88b9765?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjV8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 145,
+    "luxuryTitle": "Premium Escape",
+    "freeServices": ["WiFi", "Breakfast", "Parking"],
+    "mainFeatures": [
+      {
+        "title": "Spa & Wellness",
+        "description": "Relax and rejuvenate with our premium spa treatments."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      },
+      {
+        "title": "Private Balconies",
+        "description": "Each room features a private space with scenic views."
+      }
+    ],
+    "description": "Meadow Breeze Inn offers guests a peaceful retreat in the heart of nature. The hotel combines rustic charm with modern luxury, providing an ideal escape from city life. Enjoy walking trails, spa services, and gourmet meals in a tranquil environment."
+  },
+  {
+    "id": 23,
+    "hotelName": "Serene Horizon Hotel",
+    "bedType": "Single",
+    "location": "Rajshahi",
+    "reviews": 4.5,
+    "image": "https://images.unsplash.com/photo-1512918728675-ed5a9ecdebfd?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njh8fGhvdGVsJTIwcm9vbXxlbnwwfHwwfHx8MA%3D%3D",
+    "pricePerNight": 185,
+    "luxuryTitle": "Elegant Experience",
+    "freeServices": ["Pool Access", "Gym", "Welcome Drink"],
+    "mainFeatures": [
+      {
+        "title": "Gourmet Dining",
+        "description": "Indulge in cuisine crafted by top chefs."
+      },
+      {
+        "title": "Rooftop Pool",
+        "description": "Enjoy the city skyline from our rooftop infinity pool."
+      },
+      {
+        "title": "24/7 Concierge",
+        "description": "Always available to assist your needs anytime."
+      }
+    ],
+    "description": "Serene Horizon Hotel provides a luxurious stay in a tranquil setting. Guests can enjoy modern amenities, spacious rooms, and personalized service designed to create a relaxing and memorable experience. The hotel's prime location offers easy access to key attractions and natural beauty."
+  }
+]
