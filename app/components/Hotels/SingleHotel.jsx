@@ -22,14 +22,22 @@ const SingleHotel = ({ hotel }) => {
             <p className="font-medium">{hotel.reviews}</p>
           </div>
         </div>
-        <p className="text-[#6B7280E3] mt-2">
-          {" "}
-          <FaLocationDot size={20} className="mr-1 inline-block" />{" "}
-          <span className="font-medium">{hotel.location} , Bangladesh</span>
-        </p>
+       
+          <div className="flex items-center  text-[#6B7280E3] mt-2 gap-2">
+            <FaLocationDot size={20} />
+            <span className="font-medium">{hotel.location} , Bangladesh</span>
+          </div>
         <div className="flex items-center mt-3 justify-between">
-            <p className="font-medium text-lg">${hotel.pricePerNight}</p>
-            <Link href={`f`} className="px-3 py-2 rounded bg-black text-white">View Details</Link>
+          <p className="font-medium text-lg">
+            ${hotel.pricePerNight}/
+            <span className="text-[#6B7280E6] font-normal">day</span>
+          </p>
+          <Link
+            href={`/details/${hotel.id}`}
+            className="px-3 py-2 rounded bg-black text-white"
+          >
+            View Details
+          </Link>
         </div>
       </div>
     </div>
